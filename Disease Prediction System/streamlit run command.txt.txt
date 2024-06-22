@@ -1,0 +1,1 @@
+streamlit run "C:\Users\JEEVANA\Desktop\Disease Prediction System\DiseasePrediction.py"
